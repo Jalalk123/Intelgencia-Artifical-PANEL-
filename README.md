@@ -1,4 +1,4 @@
-# Intelgencia-Artifical-PANEL-
+# Intelgencia Artifical 
 Espacio de trabajo e información de lo aprendido y aplicado de IA
 
 # Inteligencia Artificial - 2025
@@ -14,6 +14,7 @@ Aquí se almacenarán los siguientes contenidos a lo largo del curso:
 - Códigos fuente de prácticas y proyectos
 - Laboaratorios
 - Experimentos y pruebas con lo aprendido en IA
+- Mi portafolio Personal de asiganciones.
 
 El objetivo de este repositorio es mantener organizada toda la información del curso y demostrar avances en el aprendizaje de técnicas y herramientas relacionadas con la Inteligencia Artificial.
 
